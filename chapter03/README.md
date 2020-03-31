@@ -6,3 +6,4 @@ CONTENTS
 + `recipe04/`: float arithmetic
 + `recipe05/`: formatting numbers
 + `recipe06/`: converting between bases
++ `recipe07/`: formatting with plurals
