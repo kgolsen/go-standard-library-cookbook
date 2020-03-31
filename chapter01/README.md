@@ -9,4 +9,7 @@ CONTENTS
 + `recipe06/`: get PID
 + `recipe07/`: signal handling
 + `recipe08/`: executing a child process
-
++ `recipe09/`: waiting on a child process
++ `recipe10/`: reading/writing to children
++ `recipe11/`: more involved signal handling
++ `recipe12/`: file config example
