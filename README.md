@@ -6,3 +6,5 @@ CONTENTS
 + `chapter04/`: dates and times
 + `chapter05/`: I/O
 + `chapter06/`: filesystem
++ `chapter07/`: networking
++ `chapter08/`: databases
